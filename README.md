@@ -211,7 +211,7 @@ x = (0.2,\; 0.6),\qquad \|Ax - b\| = 0.
 
 **运行截图：**
 
-<img src="example/square_result.png" width="30%" style="border:1px solid #ccc;">
+<img src="example/square_result.png" width="35%" style="border:1px solid #ccc;">
 
 ---
 
@@ -238,7 +238,7 @@ x = (0.6667,\; 0.5),
 
 **运行截图：**
 
-<img src="example/overdetermined_result.png" width="30%" style="border:1px solid #ccc;">
+<img src="example/overdetermined_result.png" width="35%" style="border:1px solid #ccc;">
 
 ---
 
@@ -248,7 +248,7 @@ x = (0.6667,\; 0.5),
 
 **运行截图：**
 
-<img src="example/underdetermined_result.png" width="30%" style="border:1px solid #ccc;">
+<img src="example/underdetermined_result.png" width="35%" style="border:1px solid #ccc;">
 
 ---
 
