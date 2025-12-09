@@ -1,5 +1,4 @@
-# matrix
-ucas矩阵分析大作业
+# 2025ucas矩阵分析大作业
 
 # QR 分解与求解 Ax = b（Householder 与 Givens 实现）
 
