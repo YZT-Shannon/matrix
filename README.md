@@ -211,7 +211,7 @@ x = (0.2,\; 0.6),\qquad \|Ax - b\| = 0.
 
 **运行截图：**
 
-![方阵系统运行结果](examples/square_system_result.png)
+![方阵系统运行结果](example/square_system_result.png)
 
 ---
 
@@ -238,14 +238,14 @@ x = (0.6667,\; 0.5),
 
 **运行截图：**
 
-![超定系统运行结果](examples/overdetermined_result.png)
+![超定系统运行结果](example/overdetermined_result.png)
 
 ### 3. 欠定系统（最小范数解）
 
 程序自动返回满足最小范数条件的解。
 **运行截图：**
 
-![欠定系统运行结果](examples/underdetermined_result.png)
+![欠定系统运行结果](example/underdetermined_result.png)
 
 ---
 
