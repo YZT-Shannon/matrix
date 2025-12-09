@@ -211,7 +211,7 @@ x = (0.2,\; 0.6),\qquad \|Ax - b\| = 0.
 
 **运行截图：**
 
-![方阵系统运行结果](example/square_system_result.png)
+![方阵系统运行结果](example/square_result.png)
 
 ---
 
